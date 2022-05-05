@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.16)  19 APR 2022 09:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.16)  5 MAY 2022 11:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -520,7 +520,7 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks45
 \inpenc@posthook=\toks46
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 509.
+Package hyperref Info: Option `colorlinks' set `true' on input line 50.
  (/usr/share/texlive/texmf-dist/tex/latex/dashrule/dashrule.sty
 Package: dashrule 2013/03/28 v1.3 Dashed rules
  (/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
@@ -1270,11 +1270,11 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 \c@lstlisting=\count391
  (/home/senai/meeting-manipulator/presentation.nav)
-<Template/logosenaicimatec2020.png, id=41, 2234.3475pt x 489.83pt>
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 105.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+<Template/logosenaicimatecnegativo.png, id=41, 632.1216pt x 138.7584pt>
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 105.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
 
 
 Package media9 Warning: Media annotation on line 132 has zero width.
@@ -1295,11 +1295,11 @@ File: Template/rosa-logo.png Graphic file (type png)
 <use Template/rosa-logo.png>
 Package pdftex.def Info: Template/rosa-logo.png  used on input line 132.
 (pdftex.def)             Requested size: 55.40582pt x 45.43277pt.
-<Template/logosenaicimatecnegativo.png, id=57, 632.1216pt x 138.7584pt>
-File: Template/logosenaicimatecnegativo.png Graphic file (type png)
-<use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 132.
-(pdftex.def)             Requested size: 139.06717pt x 30.52693pt.
+<Template/logosenaicimatec2020.png, id=57, 2234.3475pt x 489.83pt>
+File: Template/logosenaicimatec2020.png Graphic file (type png)
+<use Template/logosenaicimatec2020.png>
+Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 132.
+(pdftex.def)             Requested size: 134.05507pt x 29.38852pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <32> not available
@@ -1322,257 +1322,234 @@ LaTeX Font Warning: Font shape `OML/cmtt/m/n' undefined
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/senai/meeting-manipulator/Template/rosa-logo.png> </home/senai/meeting-manipulator/Template/logosenaicimatecnegativo.png>] (/home/senai/meeting-manipulator/Sections/01-introduction.tex
-<Template/bullet-blue.png, id=71, 513.92pt x 513.92pt>
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 28.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 28.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 28.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/senai/meeting-manipulator/Template/rosa-logo.png> </home/senai/meeting-manipulator/Template/logosenaicimatec2020.png>] (/home/senai/meeting-manipulator/Sections/warthog-aum.tex
+<Source/pictures/warthog+aum/full-system.jpg, id=71, 1043.9pt x 782.925pt>
+File: Source/pictures/warthog+aum/full-system.jpg Graphic file (type jpg)
+<use Source/pictures/warthog+aum/full-system.jpg>
+Package pdftex.def Info: Source/pictures/warthog+aum/full-system.jpg  used on input line 26.
+(pdftex.def)             Requested size: 156.24075pt x 117.17085pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 28.
+(Font)              size <20.74> substituted on input line 26.
 
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 28.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 26.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
 [2
 
- </home/senai/meeting-manipulator/Template/bullet-blue.png> </home/senai/meeting-manipulator/Template/logosenaicimatec2020.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+ </home/senai/meeting-manipulator/Source/pictures/warthog+aum/full-system.jpg> </home/senai/meeting-manipulator/Template/logosenaicimatecnegativo.png>]
+<Source/pictures/warthog+aum/robot.png, id=83, 1244.65pt x 858.20625pt>
+File: Source/pictures/warthog+aum/robot.png Graphic file (type png)
+<use Source/pictures/warthog+aum/robot.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/robot.png  used on input line 59.
+(pdftex.def)             Requested size: 96.14941pt x 66.28767pt.
+<Source/pictures/warthog+aum/rov-aum.png, id=84, 361.35pt x 254.9525pt>
+File: Source/pictures/warthog+aum/rov-aum.png Graphic file (type png)
+<use Source/pictures/warthog+aum/rov-aum.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/rov-aum.png  used on input line 59.
+(pdftex.def)             Requested size: 78.12038pt x 55.11714pt.
+<Source/pictures/warthog+aum/curiosity.png, id=85, 1078.0275pt x 702.625pt>
+File: Source/pictures/warthog+aum/curiosity.png Graphic file (type png)
+<use Source/pictures/warthog+aum/curiosity.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/curiosity.png  used on input line 59.
+(pdftex.def)             Requested size: 78.12038pt x 50.91487pt.
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 59.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+ [3
+
+ </home/senai/meeting-manipulator/Source/pictures/warthog+aum/robot.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/rov-aum.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/curiosity.png>]
+<Source/pictures/warthog+aum/Captura_de_tela_de_2021-09-29_09-22-23.png, id=96, 1090.0725pt x 774.895pt>
+File: Source/pictures/warthog+aum/Captura_de_tela_de_2021-09-29_09-22-23.png Graphic file (type png)
+<use Source/pictures/warthog+aum/Captura_de_tela_de_2021-09-29_09-22-23.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/Captura_de_tela_de_2021-09-29_09-22-23.png  used on input line 102.
+(pdftex.def)             Requested size: 72.10947pt x 51.25673pt.
+File: Source/pictures/warthog+aum/full-system.jpg Graphic file (type jpg)
+<use Source/pictures/warthog+aum/full-system.jpg>
+Package pdftex.def Info: Source/pictures/warthog+aum/full-system.jpg  used on input line 102.
+(pdftex.def)             Requested size: 72.10947pt x 54.0816pt.
+<Source/pictures/warthog+aum/aruco.png, id=97, 713.66624pt x 504.88625pt>
+File: Source/pictures/warthog+aum/aruco.png Graphic file (type png)
+<use Source/pictures/warthog+aum/aruco.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/aruco.png  used on input line 102.
+(pdftex.def)             Requested size: 72.10947pt x 51.00774pt.
+<Source/pictures/warthog+aum/aruco.jpeg, id=98, 1606.0pt x 1204.5pt>
+File: Source/pictures/warthog+aum/aruco.jpeg Graphic file (type jpg)
+<use Source/pictures/warthog+aum/aruco.jpeg>
+Package pdftex.def Info: Source/pictures/warthog+aum/aruco.jpeg  used on input line 102.
+(pdftex.def)             Requested size: 72.10947pt x 54.0715pt.
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 102.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+ [4
+
+ </home/senai/meeting-manipulator/Source/pictures/warthog+aum/Captura_de_tela_de_2021-09-29_09-22-23.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/aruco.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/aruco.jpeg>]
+<Template/bullet-blue.png, id=108, 513.92pt x 513.92pt>
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 123.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 123.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 123.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 123.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 123.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 123.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 123.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 49.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 123.
  (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 49.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [3
+<Source/pictures/warthog+aum/modelo-planejamento-dinamico.png, id=109, 865.2325pt x 1275.76625pt>
+File: Source/pictures/warthog+aum/modelo-planejamento-dinamico.png Graphic file (type png)
+<use Source/pictures/warthog+aum/modelo-planejamento-dinamico.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/modelo-planejamento-dinamico.png  used on input line 123.
+(pdftex.def)             Requested size: 128.19597pt x 189.02069pt.
 
-]
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 71.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 71.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 71.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 71.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 71.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-<Source/pictures/walker.png, id=91, 667.49374pt x 543.02875pt>
-File: Source/pictures/walker.png Graphic file (type png)
-<use Source/pictures/walker.png>
-Package pdftex.def Info: Source/pictures/walker.png  used on input line 71.
-(pdftex.def)             Requested size: 128.19597pt x 104.28683pt.
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 71.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [4
+Overfull \vbox (1.0455pt too high) detected at line 123
+ []
 
- </home/senai/meeting-manipulator/Source/pictures/walker.png>]
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 92.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 92.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 92.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 92.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-<Source/pictures/ur5.jpg, id=100, 3276.24pt x 2457.18pt>
-File: Source/pictures/ur5.jpg Graphic file (type jpg)
-<use Source/pictures/ur5.jpg>
-Package pdftex.def Info: Source/pictures/ur5.jpg  used on input line 92.
-(pdftex.def)             Requested size: 170.26346pt x 127.66536pt.
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 92.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [5
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 123.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+[5
 
- </home/senai/meeting-manipulator/Source/pictures/ur5.jpg>]
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 99.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+ </home/senai/meeting-manipulator/Template/bullet-blue.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/modelo-planejamento-dinamico.png>]
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 165.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 165.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 165.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+<Source/pictures/warthog+aum/moveit.png, id=119, 472.1905pt x 99.40852pt>
+File: Source/pictures/warthog+aum/moveit.png Graphic file (type png)
+<use Source/pictures/warthog+aum/moveit.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/moveit.png  used on input line 165.
+(pdftex.def)             Requested size: 80.12218pt x 16.86736pt.
+<Source/pictures/warthog+aum/capa-aum.png, id=120, 604.2575pt x 347.2975pt>
+File: Source/pictures/warthog+aum/capa-aum.png Graphic file (type png)
+<use Source/pictures/warthog+aum/capa-aum.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/capa-aum.png  used on input line 165.
+(pdftex.def)             Requested size: 604.25603pt x 347.29665pt.
+<<./Source/movies/aum.mp4>>
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 165.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [6
 
-]
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 120.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+ </home/senai/meeting-manipulator/Source/pictures/warthog+aum/moveit.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/capa-aum.png>]
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 210.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 210.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 210.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+<Source/pictures/warthog+aum/capa2.png, id=146, 605.26125pt x 332.24126pt>
+File: Source/pictures/warthog+aum/capa2.png Graphic file (type png)
+<use Source/pictures/warthog+aum/capa2.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/capa2.png  used on input line 210.
+(pdftex.def)             Requested size: 605.25975pt x 332.24043pt.
+<<./Source/movies/aum-aruco.mp4>>
+<Source/pictures/warthog+aum/capa1.png, id=159, 604.2575pt x 331.2375pt>
+File: Source/pictures/warthog+aum/capa1.png Graphic file (type png)
+<use Source/pictures/warthog+aum/capa1.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/capa1.png  used on input line 210.
+(pdftex.def)             Requested size: 604.25603pt x 331.23668pt.
+<<./Source/movies/aum-aruco1.mp4>>
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 210.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [7
 
-]
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 141.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 141.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-<Source/pictures/magician1.jpg, id=123, 1228.59pt x 1638.12pt>
-File: Source/pictures/magician1.jpg Graphic file (type jpg)
-<use Source/pictures/magician1.jpg>
-Package pdftex.def Info: Source/pictures/magician1.jpg  used on input line 141.
-(pdftex.def)             Requested size: 96.14941pt x 128.17776pt.
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 141.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+ </home/senai/meeting-manipulator/Source/pictures/warthog+aum/capa2.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/capa1.png>]
+<Source/pictures/warthog+aum/Captura_de_tela_de_2021-10-15_16-44-28.png, id=182, 1556.81625pt x 922.44624pt>
+File: Source/pictures/warthog+aum/Captura_de_tela_de_2021-10-15_16-44-28.png Graphic file (type png)
+<use Source/pictures/warthog+aum/Captura_de_tela_de_2021-10-15_16-44-28.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/Captura_de_tela_de_2021-10-15_16-44-28.png  used on input line 226.
+(pdftex.def)             Requested size: 180.27643pt x 106.81804pt.
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 226.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [8
 
- </home/senai/meeting-manipulator/Source/pictures/magician1.jpg>]
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 159.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 159.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-<Source/pictures/arbotix2.jpg, id=131, 3276.24pt x 2457.18pt>
-File: Source/pictures/arbotix2.jpg Graphic file (type jpg)
-<use Source/pictures/arbotix2.jpg>
-Package pdftex.def Info: Source/pictures/arbotix2.jpg  used on input line 159.
-(pdftex.def)             Requested size: 160.24742pt x 120.16666pt.
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 159.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+ </home/senai/meeting-manipulator/Source/pictures/warthog+aum/Captura_de_tela_de_2021-10-15_16-44-28.png>]
+<Source/pictures/warthog+aum/x.png, id=192, 935.1738pt x 484.209pt>
+File: Source/pictures/warthog+aum/x.png Graphic file (type png)
+<use Source/pictures/warthog+aum/x.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/x.png  used on input line 259.
+(pdftex.def)             Requested size: 119.22536pt x 61.73029pt.
+<Source/pictures/warthog+aum/y.png, id=193, 462.528pt x 346.896pt>
+File: Source/pictures/warthog+aum/y.png Graphic file (type png)
+<use Source/pictures/warthog+aum/y.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/y.png  used on input line 259.
+(pdftex.def)             Requested size: 108.16695pt x 81.12357pt.
+<Source/pictures/warthog+aum/z.png, id=194, 462.528pt x 346.896pt>
+File: Source/pictures/warthog+aum/z.png Graphic file (type png)
+<use Source/pictures/warthog+aum/z.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/z.png  used on input line 259.
+(pdftex.def)             Requested size: 108.16695pt x 81.12357pt.
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 259.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [9
 
- </home/senai/meeting-manipulator/Source/pictures/arbotix2.jpg>]
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 177.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 177.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-<Source/pictures/ergo.jpg, id=139, 3276.24pt x 2457.18pt>
-File: Source/pictures/ergo.jpg Graphic file (type jpg)
-<use Source/pictures/ergo.jpg>
-Package pdftex.def Info: Source/pictures/ergo.jpg  used on input line 177.
-(pdftex.def)             Requested size: 180.27643pt x 135.20155pt.
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 177.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+ </home/senai/meeting-manipulator/Source/pictures/warthog+aum/x.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/y.png> </home/senai/meeting-manipulator/Source/pictures/warthog+aum/z.png>]
+<Source/pictures/warthog+aum/img-final.png, id=206, 1740.5025pt x 576.1525pt>
+File: Source/pictures/warthog+aum/img-final.png Graphic file (type png)
+<use Source/pictures/warthog+aum/img-final.png>
+Package pdftex.def Info: Source/pictures/warthog+aum/img-final.png  used on input line 269.
+(pdftex.def)             Requested size: 400.61703pt x 132.60898pt.
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 269.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [10
 
- </home/senai/meeting-manipulator/Source/pictures/ergo.jpg>]
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 199.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [11
-
-]
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 223.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 223.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 223.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 223.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-<Source/pictures/desafios.png, id=154, 914.41624pt x 484.81125pt>
-File: Source/pictures/desafios.png Graphic file (type png)
-<use Source/pictures/desafios.png>
-Package pdftex.def Info: Source/pictures/desafios.png  used on input line 223.
-(pdftex.def)             Requested size: 200.30852pt x 106.20015pt.
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 223.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [12
-
- </home/senai/meeting-manipulator/Source/pictures/desafios.png>]
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 244.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [13
-
-]
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 260.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 260.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-File: Template/bullet-blue.png Graphic file (type png)
-<use Template/bullet-blue.png>
-Package pdftex.def Info: Template/bullet-blue.png  used on input line 260.
-(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
-<Source/pictures/projetos-montag.png, id=171, 2514.39375pt x 322.20375pt>
-File: Source/pictures/projetos-montag.png Graphic file (type png)
-<use Source/pictures/projetos-montag.png>
-Package pdftex.def Info: Source/pictures/projetos-montag.png  used on input line 260.
-(pdftex.def)             Requested size: 400.61703pt x 51.33241pt.
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 260.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [14
-
- </home/senai/meeting-manipulator/Source/pictures/projetos-montag.png>])
-<Template/questionmark8.png, id=181, 513.92pt x 513.92pt>
+ </home/senai/meeting-manipulator/Source/pictures/warthog+aum/img-final.png>])
+<Template/questionmark8.png, id=215, 513.92pt x 513.92pt>
 File: Template/questionmark8.png Graphic file (type png)
 <use Template/questionmark8.png>
-Package pdftex.def Info: Template/questionmark8.png  used on input line 161.
+Package pdftex.def Info: Template/questionmark8.png  used on input line 162.
 (pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
- [15
+ [11
 
  </home/senai/meeting-manipulator/Template/questionmark8.png>]
 \tf@nav=\write10
@@ -1584,11 +1561,11 @@ Package pdftex.def Info: Template/questionmark8.png  used on input line 161.
 \tf@snm=\write12
 \openout12 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
  (/home/senai/meeting-manipulator/presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1601,18 +1578,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33548 strings out of 481239
- 699279 string characters out of 5920377
- 1102276 words of memory out of 5000000
- 47959 multiletter control sequences out of 15000+600000
- 541681 words of font info for 59 fonts, out of 8000000 for 9000
+ 33645 strings out of 481239
+ 703391 string characters out of 5920377
+ 1111160 words of memory out of 5000000
+ 48051 multiletter control sequences out of 15000+600000
+ 542331 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,17n,88p,1019b,1134s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /home/senai/meeting-manipulator/presentation.pdf (15 pages, 8992865 bytes).
+ 60i,17n,88p,1019b,1138s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on /home/senai/meeting-manipulator/presentation.pdf (11 pages, 8878589 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 148 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 447 words of extra memory for PDF output out of 10000 (max. 10000000)
 
