@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.16)  18 MAY 2022 11:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.16)  26 MAY 2022 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1322,115 +1322,184 @@ LaTeX Font Warning: Font shape `OML/cmtt/m/n' undefined
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/senai/meeting-manipulator/Template/rosa-logo.png> </home/senai/meeting-manipulator/Template/logosenaicimatec2020.png>] (/home/senai/meeting-manipulator/Sections/operacoes-matrizes.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/senai/meeting-manipulator/Template/rosa-logo.png> </home/senai/meeting-manipulator/Template/logosenaicimatec2020.png>] (/home/senai/meeting-manipulator/Sections/01-introduction.tex
+<Source/pictures/intro2.png, id=71, 814.04124pt x 121.45375pt>
+File: Source/pictures/intro2.png Graphic file (type png)
+<use Source/pictures/intro2.png>
+Package pdftex.def Info: Source/pictures/intro2.png  used on input line 14.
+(pdftex.def)             Requested size: 400.61703pt x 59.77045pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 14.
+
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 14.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+[2
+
+ </home/senai/meeting-manipulator/Source/pictures/intro2.png> </home/senai/meeting-manipulator/Template/logosenaicimatecnegativo.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 62.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 33.
  (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
+<Template/bullet-blue.png, id=84, 513.92pt x 513.92pt>
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 33.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+File: Template/bullet-blue.png Graphic file (type png)
+<use Template/bullet-blue.png>
+Package pdftex.def Info: Template/bullet-blue.png  used on input line 33.
+(pdftex.def)             Requested size: 4.88542pt x 4.8889pt.
+<Source/pictures/matriz.png, id=85, 538.01pt x 445.665pt>
+File: Source/pictures/matriz.png Graphic file (type png)
+<use Source/pictures/matriz.png>
+Package pdftex.def Info: Source/pictures/matriz.png  used on input line 33.
+(pdftex.def)             Requested size: 160.24742pt x 132.74168pt.
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 33.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+ [3
 
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 62.
-
+ </home/senai/meeting-manipulator/Template/bullet-blue.png> </home/senai/meeting-manipulator/Source/pictures/matriz.png>]) (/home/senai/meeting-manipulator/Sections/operacoes-matrizes.tex
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
 Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 62.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
-[2
+ [4
 
- </home/senai/meeting-manipulator/Template/logosenaicimatecnegativo.png>]
+]
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 94.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 97.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
- [3
+ [5
 
 ]
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 127.
+LaTeX Warning: Command \textcircled invalid in math mode on input line 130.
 
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 127.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 130.
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 127.
+LaTeX Warning: Command \textcircled invalid in math mode on input line 130.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 127.
+LaTeX Warning: Command \textcircled invalid in math mode on input line 130.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 127.
+LaTeX Warning: Command \textcircled invalid in math mode on input line 130.
 
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 127.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 130.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
-[4
+[6
 
 ]) (/home/senai/meeting-manipulator/Sections/tipos-matrizes.tex
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
 Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 40.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
- [5
-
-]
-File: Template/logosenaicimatecnegativo.png Graphic file (type png)
-<use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 62.
-(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
- [6
-
-]
-File: Template/logosenaicimatecnegativo.png Graphic file (type png)
-<use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 80.
-(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [7
 
 ]
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 117.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 65.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [8
 
 ]
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 136.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 86.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [9
 
 ]
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 156.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 123.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [10
 
 ]
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 183.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 142.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
  [11
 
-])
-<Template/questionmark8.png, id=152, 513.92pt x 513.92pt>
+]
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 162.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+ [12
+
+]
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 200.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+ [13
+
+]) (/home/senai/meeting-manipulator/Sections/conceitos.tex
+<Source/pictures/sarrus_rule.png, id=173, 642.4pt x 348.30125pt>
+File: Source/pictures/sarrus_rule.png Graphic file (type png)
+<use Source/pictures/sarrus_rule.png>
+Package pdftex.def Info: Source/pictures/sarrus_rule.png  used on input line 34.
+(pdftex.def)             Requested size: 144.22505pt x 78.19432pt.
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 34.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+ [14
+
+ </home/senai/meeting-manipulator/Source/pictures/sarrus_rule.png>]
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 62.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+ [15
+
+]
+<Source/pictures/gauss.png, id=191, 430.60875pt x 554.07pt>
+File: Source/pictures/gauss.png Graphic file (type png)
+<use Source/pictures/gauss.png>
+Package pdftex.def Info: Source/pictures/gauss.png  used on input line 86.
+(pdftex.def)             Requested size: 80.12218pt x 103.09315pt.
+
+Overfull \vbox (6.32164pt too high) detected at line 86
+ []
+
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 86.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+[16
+
+ </home/senai/meeting-manipulator/Source/pictures/gauss.png>])
+<Template/questionmark8.png, id=200, 513.92pt x 513.92pt>
 File: Template/questionmark8.png Graphic file (type png)
 <use Template/questionmark8.png>
 Package pdftex.def Info: Template/questionmark8.png  used on input line 163.
 (pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
- [12
+ [17
 
  </home/senai/meeting-manipulator/Template/questionmark8.png>]
 \tf@nav=\write10
@@ -1459,18 +1528,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33498 strings out of 481239
- 698504 string characters out of 5920377
- 1108482 words of memory out of 5000000
- 47916 multiletter control sequences out of 15000+600000
- 542371 words of font info for 61 fonts, out of 8000000 for 9000
+ 33600 strings out of 481239
+ 700871 string characters out of 5920377
+ 1107550 words of memory out of 5000000
+ 47996 multiletter control sequences out of 15000+600000
+ 542676 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,17n,88p,1019b,1135s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on /home/senai/meeting-manipulator/presentation.pdf (12 pages, 1529266 bytes).
+ 60i,17n,88p,1019b,1134s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb>
+Output written on /home/senai/meeting-manipulator/presentation.pdf (17 pages, 1967423 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 217 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 261 PDF objects out of 1000 (max. 8388607)
+ 181 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 242 words of extra memory for PDF output out of 10000 (max. 10000000)
 
