@@ -463,6 +463,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
 INPUT /home/senai/meeting-manipulator/presentation.aux
 INPUT /home/senai/meeting-manipulator/presentation.aux
+INPUT /home/senai/meeting-manipulator/bu.aux
+INPUT /home/senai/meeting-manipulator/bu.aux
 OUTPUT /home/senai/meeting-manipulator/presentation.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -622,6 +624,13 @@ INPUT /home/senai/meeting-manipulator/Source/pictures/gauss.png
 INPUT /home/senai/meeting-manipulator/Source/pictures/gauss.png
 INPUT /home/senai/meeting-manipulator/Template/logosenaicimatecnegativo.png
 INPUT /home/senai/meeting-manipulator/Template/logosenaicimatecnegativo.png
+INPUT /home/senai/meeting-manipulator/Sections/references.tex
+INPUT /home/senai/meeting-manipulator/Sections/references.tex
+OUTPUT /home/senai/meeting-manipulator/bu.aux
+INPUT /home/senai/meeting-manipulator/presentation.bbl
+INPUT /home/senai/meeting-manipulator/presentation.bbl
+INPUT /home/senai/meeting-manipulator/Template/logosenaicimatecnegativo.png
+INPUT /home/senai/meeting-manipulator/Template/logosenaicimatecnegativo.png
 INPUT /home/senai/meeting-manipulator/Template/questionmark8.png
 INPUT /home/senai/meeting-manipulator/Template/questionmark8.png
 INPUT /home/senai/meeting-manipulator/Template/questionmark8.png
@@ -629,6 +638,8 @@ OUTPUT /home/senai/meeting-manipulator/presentation.nav
 OUTPUT /home/senai/meeting-manipulator/presentation.toc
 OUTPUT /home/senai/meeting-manipulator/presentation.snm
 INPUT /home/senai/meeting-manipulator/presentation.aux
+INPUT /home/senai/meeting-manipulator/bu.aux
+INPUT /home/senai/meeting-manipulator/bu.aux
 INPUT /home/senai/meeting-manipulator/presentation.out
 INPUT /home/senai/meeting-manipulator/presentation.out
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc

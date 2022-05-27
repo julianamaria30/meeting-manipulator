@@ -1,0 +1,28 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Baldin e FURUYA 2011]{baldin2011geometria}
+\abntrefinfo{Baldin e FURUYA}{BALDIN; FURUYA}{2011}
+{BALDIN, Y.~Y.; FURUYA, Y. K.~S. \emph{Geometria anal{\'\i}tica para todos e
+  atividades com Octave e GeoGebra}. [S.l.]: EduFSCar: S{\~a}o Carlos, 2011.}
+
+\bibitem[Boldrini et al. 1980]{boldrini1980algebra}
+\abntrefinfo{Boldrini et al.}{BOLDRINI et al.}{1980}
+{BOLDRINI, J.~L. et al. \emph{{\'A}lgebra linear}. [S.l.]: Harper \& Row,
+  1980.}
+
+\bibitem[Craig 2012]{craig2012robotica}
+\abntrefinfo{Craig}{CRAIG}{2012}
+{CRAIG, J. \emph{Rob{\'o}tica. 3a edi{\c{c}}{\~a}o.[Sl]}. [S.l.]: S{\~a}o
+  Paulo: Editora Pearson, 2012.}
+
+\bibitem[Leon 2011]{leon2000algebra}
+\abntrefinfo{Leon}{LEON}{2011}
+{LEON, S.~J. \emph{{\'A}lgebra Linear com Aplica{\c{c}}{\~o}es .} [S.l.]: Grupo
+  Gen-LTC, 2011.}
+
+\end{thebibliography}
